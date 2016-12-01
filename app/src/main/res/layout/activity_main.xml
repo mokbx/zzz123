@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<LinearLayout android:orientation="vertical" android:layout_height="fill_parent" android:layout_width="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+
+<TextView android:layout_height="wrap_content" android:layout_width="wrap_content" android:textAppearance="?android:attr/textAppearanceMedium" android:text="noitems" android:id="@+id/noitemsTV"/>
+
+<ListView android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/contactsLV"> </ListView>
+
+</LinearLayout>

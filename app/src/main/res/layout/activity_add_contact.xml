@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+    <LinearLayout android:orientation="vertical" android:layout_height="fill_parent" android:layout_width="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditText android:layout_height="wrap_content" android:layout_width="fill_parent" android:hint="name" android:id="@+id/addNameET"/>
+
+    <EditText android:layout_height="wrap_content" android:layout_width="fill_parent" android:hint="mobilenumber" android:id="@+id/addNumET" android:inputType="number"/>
+
+    <Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/addRecordsBtn" android:text="Add"/>
+
+</LinearLayout>
